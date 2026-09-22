@@ -1,6 +1,9 @@
-let arrs = [1, 2, 3]
-
-for (arr of arrs) {
-	console.log(arr);
-}
-
+const prompt = require("prompt-sync")
+ let nom = prompt("Quel est votre nom")
+ console.log(nom)
+ let age = prompt("Quel est votre age")
+ console.log(age)
+ let sexe = prompt("Quel est votre sexe")
+ console.log(sexe)
+ let mail = prompt("Quel votre mail")
+ console.log(mail)
