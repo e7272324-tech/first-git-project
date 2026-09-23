@@ -1,11 +1,3 @@
-// const prompt = require("prompt-sync")();
-// let nombres = [];
-// let lenght = parseInt(prompt("Entrer le nombre de elements"));
-
-// for( let i=0; i < lenght; i++){
-
-
-
 const prompt = require("prompt-sync")();
 const num = parseInt(prompt("Enter the number of elements : "));
 const array = [];
